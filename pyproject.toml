@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "midi-push-talk"
 version = "0.1.0"
-description = ""
+description = "Push-to-talk using a midi sustain pedal."
 authors = ["jnnkB <29376715+jnnkB@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "midi-talk"
+name = "midi-push-talk"
 version = "0.1.0"
 description = ""
 authors = ["jnnkB <29376715+jnnkB@users.noreply.github.com>"]
